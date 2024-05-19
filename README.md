@@ -15,7 +15,9 @@ Three experiments have been conducted, each having different parameters. All exp
 
 ## Analysis
 The results of the first experiment show that defaults began after the 200th month as evidenced by the default rate and the number of defaulters. We can also see that debts experienced an exponential growth which was what led to cases of default appearing. We can also see that the average balances of the borrowers had increased thanks to their monthly income and borrowing from friends. <br />
+
 The results of the second experiment show that defaults started much earlier around the 50th month. The rest of the variables exhibited the same patterns as in the previous experiment. <br />
+
 The results of the third experiment show that defaults started after the 100th month but before the 200th month. The rest of the variables exhibited the same patterns as in the previous experiments. <br />
 
 
