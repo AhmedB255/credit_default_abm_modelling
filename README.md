@@ -1,2 +1,5 @@
-# credit_default_abm_modelling
-In this repository, we attempt to model the process of credit default using Agent-Based Modelling in NetLogo.
+## Introduction
+Despite the widespread usage of statistical models, machine learning, and deep learning approaches, making accurate predictions of borrower defaults is a critical challenge for financial institutions. It is especially important to note that borrowers do not necessarily act alone; they can also exist in social circles and have friends who can provide them with financial assistance to avoid defaulting on their loans. In this attempt, we attempt to model the process of borrower defaults using Agent-Based Modelling.
+
+## Methodology
+The agent-based model for a credit default simulation was coded in NetLogo. In the simulation, the agents, most of whom have friendships with other agents, borrow money if they don’t have debts, and make monthly payments based on the specified interest rate of the simulation. In case the borrowers can’t make a payment, they are given a second chance to repay their debts. This means that the loans’ duration is extended, but their credit score decreases. They also ask their friends for money. If their friends are willing to lend them money, the borrowers can use the money to pay off their loans. Otherwise, the borrowers default on their debts. Each tick in the simulation is equivalent to one month, and the simulation runs for 30 years.
